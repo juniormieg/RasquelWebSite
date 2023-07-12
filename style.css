@@ -12,8 +12,14 @@ nav {
     background-color:#78B5D1;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
 }
+#redes{
+    color: black;
+    display: flex;
+}
+.redes-sociais{
 
-div {
-    margin: auto;
+    padding: 10px;
 }
